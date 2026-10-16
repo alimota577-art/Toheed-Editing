@@ -1,0 +1,8 @@
+{
+  "name": "Remix TOHEED EDITS",
+  "description": "Professional Graphic Designing \u0026 Video Editing app and portfolio for TOHEED EDITS in Pakistan with PKR pricing, poster preview, order submission, and WhatsApp integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
